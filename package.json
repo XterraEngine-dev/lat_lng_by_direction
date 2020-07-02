@@ -1,0 +1,17 @@
+{
+  "name": "xt_maps_search_directions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "searchByDirection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Luis Cifuentes",
+  "license": "MIT",
+  "dependencies": {
+    "follow-redirects": "^1.12.1",
+    "node-fetch": "^2.6.0",
+    "node-geocoder": "^3.27.0"
+  }
+}
