@@ -10,7 +10,7 @@
   "author": "Luis Cifuentes",
   "license": "MIT",
   "dependencies": {
-    "follow-redirects": "^1.12.1",
+    "follow-redirects": "^1.14.8",
     "node-fetch": "^2.6.0",
     "node-geocoder": "^3.27.0"
   }
